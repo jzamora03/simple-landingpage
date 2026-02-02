@@ -538,7 +538,7 @@ export default function ApartaShowerInvitation() {
             </div>
             <div className="flex-1">
               <p className="text-sm text-gray-600 font-semibold uppercase tracking-wide mb-2">Ubicación</p>
-              <p className="text-2xl font-bold text-gray-800 mb-2">Compartir bochica etapa 4</p>
+              <p className="text-2xl font-bold text-gray-800 mb-2">Compartir bochica etapa 4 | Int 18 Apto 201</p>
               <p className="text-xl text-gray-700 mb-2">Carrera 102 #86a-46, Bogotá</p>
               <p className="text-sm text-rose-600 font-semibold flex items-center gap-1 group-hover:gap-2 transition-all">
                 <span>👉 Click para ver en el mapa</span>
