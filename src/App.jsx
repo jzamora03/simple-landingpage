@@ -460,7 +460,7 @@ export default function ApartaShowerInvitation() {
         {/* Header Section */}
         <div className={`text-center mb-12 ${isVisible ? 'animate-fadeInDown' : 'opacity-0'}`}>
           <h1 className="cursive text-5xl md:text-7xl text-green-800 mb-3 text-shadow-soft">
-            Te invitamos a nuestro
+           Jhoseph y Laura queremos invitarte a nuestro
           </h1>
           <h2 className="cursive text-6xl md:text-8xl gradient-text font-bold mb-6 text-shadow-soft">
             Aparta Shower
